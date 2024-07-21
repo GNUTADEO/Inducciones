@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.log
+tmp/
+*.aux
+*.dvi
+*.nav
+*.ps
+*.snm
+*.toc
