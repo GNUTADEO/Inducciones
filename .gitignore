@@ -9,3 +9,6 @@ tmp/
 *.snm
 *.toc
 *.out
+*.bcf
+*.xml
+.auctex-auto/
