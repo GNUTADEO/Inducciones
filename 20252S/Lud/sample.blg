@@ -1,0 +1,14 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'sample.blg'
+[33] biber:342> INFO - === Thu Jul 17, 2025, 02:18:01
+[42] Biber.pm:421> INFO - Reading 'sample.bcf'
+[77] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[85] Biber.pm:4487> INFO - Processing section 0
+[90] Biber.pm:4678> INFO - Looking for bibtex file 'sample.bib' for section 0
+[91] bibtex.pm:1713> INFO - LaTeX decoding ...
+[92] bibtex.pm:1519> INFO - Found BibTeX data source 'sample.bib'
+[110] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[110] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[110] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[113] bbl.pm:676> INFO - Writing 'sample.bbl' with encoding 'UTF-8'
+[113] bbl.pm:779> INFO - Output to sample.bbl
