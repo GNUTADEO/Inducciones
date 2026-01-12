@@ -12,3 +12,5 @@ tmp/
 *.bcf
 *.xml
 .auctex-auto/
+*.bbl
+*.blg
